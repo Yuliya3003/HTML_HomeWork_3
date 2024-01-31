@@ -4,13 +4,13 @@
 }
 @font-face {
     font-family: 'Gilroy-Bold';
-    src: url('fonts/gilroy-bold.ttf') format('truetype');
+    src: url('./fonts/Gilroy-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
 @font-face {
     font-family: 'Gilroy-Medium';
-    src: url('fonts/gilroy-medium.ttf') format('truetype');
+    src: url('./fonts/Gilroy-Medium.ttf') format('truetype');
     font-weight: normal; /* Для Medium обычно используется нормальное начертание */
     font-style: normal;
   }
